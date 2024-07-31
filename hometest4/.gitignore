@@ -1,0 +1,24 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# Temporary files
+*.tmp
+
+# Logs
+*.log
+
+# Go workspace file
+go.work
+
+# Test binary, coverage files, and build artifacts
+*.test
+*.cover
+*.coverprofile
+*.coverage
